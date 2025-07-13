@@ -35,18 +35,7 @@ const perguntarAI = async (question, game, apiKey) => {
         ---
         Aqui está a pergunta do usuário: ${question}
         `
-    /**
-    const perguntaValorant = ``
-    const perguntaCSGO = ``
-
-    let pergunta = ''
-
-    if (game == 'valorant') {
-        pergunta = perguntaValorant
-    } elseif (game == 'CSGO')
-    
-    elseif( game== 'LOl')
-    */
+  
     const contents = [{
         role: "user",
         parts: [{
