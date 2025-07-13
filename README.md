@@ -1,5 +1,5 @@
 # NLW
-# HTML
+# HTML  https://icons8.com/icon/20909/html-5
 - HypertText
     - Textos puros, livros, revistas, jornais;
     - Links: acessar outros documentos;
